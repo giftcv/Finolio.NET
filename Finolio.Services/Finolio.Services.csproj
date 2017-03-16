@@ -51,7 +51,7 @@
       <Project>{91d4b78c-e2c0-487c-9313-1e39db843cc8}</Project>
       <Name>Finolio.DataAccess</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Finolio.Model\Finolio.Models.csproj">
+    <ProjectReference Include="..\Finolio.Models\Finolio.Models.csproj">
       <Project>{764aeb38-cab4-4534-b407-99401c47b456}</Project>
       <Name>Finolio.Models</Name>
     </ProjectReference>

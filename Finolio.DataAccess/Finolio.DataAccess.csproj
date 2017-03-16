@@ -70,11 +70,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Finolio.Model\Finolio.Models.csproj">
+    <ProjectReference Include="..\Finolio.Models\Finolio.Models.csproj">
       <Project>{764aeb38-cab4-4534-b407-99401c47b456}</Project>
       <Name>Finolio.Models</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Web\Finolio.WebAPI.csproj">
+    <ProjectReference Include="..\Finolio.WebAPI\Finolio.WebAPI.csproj">
       <Project>{D86BB8B6-7E29-4D91-AF10-CF1FA523A13A}</Project>
       <Name>Finolio.WebAPI</Name>
     </ProjectReference>

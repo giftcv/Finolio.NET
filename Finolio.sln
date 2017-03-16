@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finolio.WebAPI", "Web\Finolio.WebAPI.csproj", "{D86BB8B6-7E29-4D91-AF10-CF1FA523A13A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finolio.WebAPI", "Finolio.WebAPI\Finolio.WebAPI.csproj", "{D86BB8B6-7E29-4D91-AF10-CF1FA523A13A}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Finolio.UI", "Finolio.UI\", "{D8B98A4E-625B-4570-BFE9-5DE89C57A863}"
 	ProjectSection(WebsiteProperties) = preProject
@@ -27,7 +27,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Finolio.UI", "Finolio.UI\",
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finolio.Models", "Finolio.Model\Finolio.Models.csproj", "{764AEB38-CAB4-4534-B407-99401C47B456}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finolio.Models", "Finolio.Models\Finolio.Models.csproj", "{764AEB38-CAB4-4534-B407-99401C47B456}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finolio.DataAccess", "Finolio.DataAccess\Finolio.DataAccess.csproj", "{91D4B78C-E2C0-487C-9313-1E39DB843CC8}"
 EndProject
